@@ -66,8 +66,8 @@ The following cleaning steps were performed:
 This project helped me understand how sales data can be used to make better business decisions.  
 It also improved my skills in Python data analysis, data cleaning, and business storytelling.
 
-## Files
-- `Online_retail.ipynb`
+## Data_set
+- `Online_retail`
 
 ## Author
-Rohit Kumar
+Rohit Kumar Pandey
